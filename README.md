@@ -1,6 +1,6 @@
 # Hydro Raw Material Receival Forecasting
 
-Quantile loss optimization (q=0.2) for cumulative material receival prediction in manufacturing logistics.
+Quantile loss optimization (q=0.2) for cumulative material receival prediction in manufacturing logistics
 
 ## Overview
 
@@ -52,3 +52,4 @@ matplotlib seaborn
 - [kaggle_metric.ipynb](kaggle_metric.ipynb)
 
 **Author**: Andrea Richichi — NTNU TDT4173
+
